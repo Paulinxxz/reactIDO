@@ -1,0 +1,132 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #B4B2B2;
+    height: 75px;
+}
+
+h2 {
+    background-color: darkmagenta;
+    height: 25px;
+    width: 6rem;
+    font-size: 16px;
+    padding: 3px;
+    text-align: center;
+    margin-left: 50rem;
+    margin-top: 48.4px;
+    position: absolute;
+}
+
+ul li {
+    padding: 5px;
+}
+
+.lixo {
+    background-color: transparent;
+    border: none;
+    margin-left: 6px;
+    cursor: pointer;
+    text-align: right;
+    color: red;
+}
+
+.concluido {
+    background-color: transparent;
+    border: none;   
+    margin-left: 125px;
+    cursor: pointer;
+    color: green;
+}
+
+.divlista {
+    margin-left: 38.5rem;
+    margin-top: 1.5rem;
+    position: absolute;
+    font-weight: bolder;
+}
+
+.config {
+    margin-top: 16.1px;
+    margin-left: 8.5rem;
+    height: 33px;
+}
+
+.inputdata {
+    border-radius: 4px;
+    margin-left: 10px;
+    margin-top: 24px;
+    position: absolute;
+}
+
+.clipe {
+    margin-top: 4.6rem;
+    margin-left: 36.4rem;
+    height: 50px;
+    position: absolute;
+}
+
+.divvazia {
+    background-color: darkmagenta;
+    margin-left: 36.4rem;
+    margin-top: 4.6rem;
+    height: 31rem;
+    width: 22rem;
+    position: absolute;
+}
+
+.divconteudo {
+    background-color: #C9C9C9;
+    margin-top: 4.6rem;
+    margin-left: 36.4em;
+    height: 30rem;
+    width: 21rem;
+    position: absolute;
+}
+
+.inputadicionar {
+    margin-left: 40rem;
+    margin-top: 7.5rem;
+    padding: 3px;
+    position: absolute;
+    border: none;
+    border-radius: 2px;
+    background-color: darkmagenta;
+    outline: 4px solid #000000;
+    font-size: 17px;
+    width: 170px;
+    font-weight: bold;
+}
+
+.inputadicionar::placeholder {
+    color: #4e4d4d;
+}
+
+.adicionar {
+    margin-left: 52rem;
+    margin-top: 7.55rem;
+    padding: 3px;
+    position: relative;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 15px;
+    background-color:darkmagenta;
+    font-weight: 700;
+    border-radius: 4px;
+    border: none;
+    outline: 3px solid #000000;
+    width: 32px;
+}
+
+  .adicionar:active {
+    transform: translateY(5px);
+  }
+
+.footer {
+    background-color: #B4B2B2;
+    margin-top: 28.1rem;
+    height: 70px;
+}
+   
+
